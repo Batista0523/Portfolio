@@ -1,5 +1,5 @@
 {
-  "name": "portoflio",
+  "name": "portfolio",
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
@@ -15,8 +15,6 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/icons": "^2.6.0",
-    "@sanity/ui": "^1.8.3",
     "@sanity/vision": "^3.19.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
